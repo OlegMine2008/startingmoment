@@ -1,1 +1,2 @@
-print('ГДЕ NTFV EXPLORERS?!')
+list = ['haha', 'POPGOES', 'Черный Шоколад']
+# Oops
